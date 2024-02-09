@@ -1,0 +1,18 @@
+První úkol:
+
+Pomocí objektového programování založeného na třídách vytvořte formulář pro zadání tisku dokumentu. 
+Ve formuláři si uživatel vybere, zda chce tisknout všechny stránky, nebo jen stránky v 
+určitém rozsahu zadaném počátečním a koncovým číslem stránky. Dále uživatel může zadat počet 
+kopií (výchozí počet je jedna kopie) a zda chce tisknout oboustranně. Tisk uživatel potvrdí 
+stiskem tlačítka. Pokud jsou všechny zadané údaje v pořádku, aplikace je vytiskne do konzole. 
+O případných chybách (například záporný počet kopií) aplikace uživatele informuje.
+
+Druhý úkol:
+
+Vytvořte asynchronní počítadlo. Přesněji do asynchronního úložiště uložte počáteční hodnotu 
+počítadla (například číslo nula). Napište asynchronní korutinu, která zvýší hodnotu počítadla o 
+jedna. Korutina  tiskem do konzole informuje uživatele o průběhu komunikace s úložištěm. 
+V případě chyby spojení se korutina snaží komunikaci pětkrát opakovat. Korutinu otestujte tak, 
+že sekvenčně zvýšíte hodnotu počítadla desetkrát.
+
+Řešení odevzdejte e-mailem do 13:00 28. ledna. Pošlete jeden zip soubor obsahující obě řešení v samostatných souborech a všechny použité knihovny.

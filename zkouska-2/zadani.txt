@@ -1,0 +1,19 @@
+První úkol:
+
+Za použití knihovny omw, pmw nebo fmw naprogramujte jednoduchý registrační formulář. 
+Uživatel v něm zadá jméno a dvakrát heslo. Aplikace bude v průběhu vyplňování 
+kontrolovat, zda uživatel zadal jméno a zda je heslo dostatečně dlouhé a zadané 
+dvakrát stejně. O případných chybách aplikace uživatele informuje. Uživatel zadaní 
+potvrdí stiskem tlačítka. Pokud budou všechny údaje správně, pod tlačítkem se 
+zobrazí informace o úspěchu registrace.
+
+ 
+
+Druhý úkol:
+
+ 
+
+Vytvořte tři procesy první proces druhému bude posílat náhodná čísla vytvořená 
+funkcí randint z modulu random druhému procesu. Druhý proces je bude po dvou sčítat 
+a posílat třetímu procesu, který je bude tisknout. Druhý a třetí proces nesmí vědět 
+kolik čísel první proces posílá.
